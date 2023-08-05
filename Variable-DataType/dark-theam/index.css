@@ -1,0 +1,11 @@
+body {
+  background-color: yellow;
+  color: black;
+}
+body.dark-mode {
+  background-color: black;
+  color: white;
+}
+button {
+  cursor: pointer;
+}
