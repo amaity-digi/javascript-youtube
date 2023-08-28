@@ -12,6 +12,8 @@
 
 //map method::
 // Basicaaly map method will loop over an array and return a new array with the same length with some operation applied.
+//The map() method does not change the original array.
+
 books = [
     {
         id: 1,
